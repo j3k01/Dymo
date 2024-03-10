@@ -16,7 +16,7 @@ class Program
             var printers = await printer.GetPrinters();
             Console.WriteLine("Dostępne drukarki Dymo: " + printers);
 
-            string labelText = "SZAFA";
+            string labelText = "TEXT";
             var label = new Label(labelText);
             var printResult = await printer.Print(label);
             Console.WriteLine("Wynik drukowania: " + printResult);
