@@ -119,7 +119,7 @@ class Program
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>T</String>
+          <String></String>
           <Attributes>
             <Font Family=""Helvetica"" Size=""13"" 
             	Bold=""False"" Italic=""False"" Underline=""False"" Strikeout=""False""/>
@@ -127,7 +127,7 @@ class Program
           </Attributes>
         </Element>
         <Element>
-          <String>EST123</String>
+          <String>SZAFA</String>
           <Attributes>
             <Font Family=""Helvetica"" Size=""13"" 
             	Bold=""False"" Italic=""False"" Underline=""False"" Strikeout=""False""/>
